@@ -7,3 +7,5 @@
   - `git status` - to check what files are going to be committed
   - `git commit -m "message"` - to commit the change
   - `git push -u origin branch-1` - to push to this branch
+- branch-2
+  - this branch is going to be merged with a pull request
