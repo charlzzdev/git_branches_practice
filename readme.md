@@ -9,3 +9,4 @@
   - `git push -u origin branch-1` - to push to this branch
 - branch-2
   - this branch is going to be merged with a pull request
+- branch-3
